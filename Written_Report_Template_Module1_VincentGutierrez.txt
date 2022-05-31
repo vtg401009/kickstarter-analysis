@@ -1,0 +1,51 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+The overview of this project is to analyze kickstarter data to assist Louise in understanding the 
+fundraising analysis of similar plays to ensure her play Fever will be a success.
+
+### Purpose
+
+## Analysis and Challenges
+
+Using what I learned in Module 1 along with previous industry knowledge, I was able to effectively 
+use Excel formulas, graphs, pivot tables, and troubleshooting to accurately deliver results.
+
+### Analysis of Outcomes Based on Launch Date
+
+Based on analysis of Launch Dates, May and June are the best months for theaters. The elast ideal months are 
+December - January.
+
+### Analysis of Outcomes Based on Goals
+
+Based on findings of the goals, the most successful projects are goals between $1000 and $4999 with a steep
+dropoff in success once the goals start at $20000.
+
+### Challenges and Difficulties Encountered
+
+The challenge I faced was making sure the formulas were all working together in the outcomes portion
+of the project. To troubleshoot this problem, I went to the raw data and isolated the goals to see where 
+my data was dropping off. I was able to see that I was missing an => part in one of my formulas.
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+Based on analysis of Launch Dates, May and June are the best months for theaters. The elast ideal months are 
+December - January.
+
+- What can you conclude about the Outcomes based on Goals?
+
+Based on findings of the goals, the most successful projects are goals between $1000 and $4999 with a steep
+dropoff in success once the goals start at $20000.
+
+- What are some limitations of this dataset?
+
+Limitations of this dataset could be the demographic the play was trying to focus on and economic trends.
+
+- What are some other possible tables and/or graphs that we could create?
+
+Other tables and graphs could be Outcomes Based on Pledge Dollars, success and failure rates based 
+on country and the count of backers, and also which category and subcategory is the most successful. 
+
